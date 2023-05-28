@@ -1,4 +1,4 @@
-<h1 align="center">HALLO WORLD!<img src="https://i.pinimg.com/originals/c6/1e/e7/c61ee7f4221311a84dfcd466d6d14183.gif" width="50px" alt=""><br></h1>
+<h1 align="center">HALLO WORLD!
 <p align="center">
   <img src="[https://i.postimg.cc/HxS74Fx1/IMG-20230210-WA0058.jpg](https://i.postimg.cc/mgvyZL6J/amoled-dark-wallpaper-hd-phone-s06.jpg)" width="70%" />
 </p> 
