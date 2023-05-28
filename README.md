@@ -6,7 +6,7 @@
 <p align="center">
 
 ## ```Self Intro```
-* Nama Dyvel call name dyl
+* Nama Dyvel call Me Dyl
 * Kristen Advent Pride
 * Saya tinggal di Kanaan, Kecamatan Airmadidi, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara.
 * kuliah di Universitas Klabat
