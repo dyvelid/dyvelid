@@ -5,7 +5,7 @@
 
 <p align="center">
 
-## ```Self Intro```
+## Self Intro
 * Nama Dyvel call Me Dyl
 * Kristen Advent Pride
 * Saya tinggal di Kanaan, Kecamatan Airmadidi, Kabupaten Minahasa Utara, Provinsi Sulawesi Utara.
@@ -13,22 +13,23 @@
 
 </p>
 
-## ```Sosmed``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+---------
+## Sosmed <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6285657318275">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@dyvel_">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="https://instagram.com/dyvelid?igshid=NTc4MTIwNjQ2YQ==">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a>
+  </a> &nbsp;&nbsp;
   <a href="mailto:dyveldaud@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> 
+  </a> &nbsp;&nbsp;
+---------
 
-
-## ```Status```
+## Status
 
 <p align="center"><a href="https://github.com/dyvelid"><img src="https://github-readme-stats.vercel.app/api?username=dyvelid&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/dyvelid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyvelid&theme=radical&layout=compact"></a></p> 
