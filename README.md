@@ -11,10 +11,12 @@
 
 ---------
 ## Sosmed <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285657318275">whatsapp</a>
-  <a href="https://www.tiktok.com/@dyvel_">dyvel</a>
-  <a href="https://instagram.com/dyvelid?igshid=NTc4MTIwNjQ2YQ==">dyvelid</a>
-  <a href="mailto:dyveldaud@gmail.com">dyveldaud@gmail.com</a>
+ <ul>
+  <li><a href="https://wa.me/6285657318275">whatsapp</a>
+  <li><a href="https://www.tiktok.com/@dyvel_">dyvel</a>
+  <li><a href="https://instagram.com/dyvelid?igshid=NTc4MTIwNjQ2YQ==">dyvelid</a>
+  <li><a href="mailto:dyveldaud@gmail.com">dyveldaud@gmail.com</a>
+  </li></ul>
 ---------
 
 ## Status
