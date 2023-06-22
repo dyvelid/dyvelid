@@ -12,17 +12,11 @@
 ---------
 ## Sosmed <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
   <a href="https://wa.me/6285657318275">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
+  </a>
   <a href="https://www.tiktok.com/@dyvel_">
-    <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/dyvelid?igshid=NTc4MTIwNjQ2YQ==">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="mailto:dyveldaud@gmail.com">
-    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
-  </a> &nbsp;&nbsp;
+  </a>
+  <a href="https://instagram.com/dyvelid?igshid=NTc4MTIwNjQ2YQ=="></a>
+  <a href="mailto:dyveldaud@gmail.com"></a>
 ---------
 
 ## Status
