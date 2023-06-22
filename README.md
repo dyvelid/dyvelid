@@ -1,9 +1,5 @@
 <h1 align="center">HALLO WORLD!
 <p align="center">
-  <img src="[https://i.postimg.cc/HxS74Fx1/IMG-20230210-WA0058.jpg](https://i.postimg.cc/mgvyZL6J/amoled-dark-wallpaper-hd-phone-s06.jpg)" width="70%" />
-</p> 
-
-<p align="center">
 
 ## Self Intro
 * Nama Dyvel call Me Dyl
